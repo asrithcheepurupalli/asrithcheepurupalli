@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asrithcheepurupalli
 - 👀 I’m interested in learning Tech and Computers
 - 🌱 I’m currently learning Computer Science
-- 📫 How to reach me work.asrithch@icloud.com
+- 📫 How to reach me work.asrithcheepurupalli@gmail.com
 
 
 <!---
