@@ -17,7 +17,7 @@ I'm a computer science student who enjoys building tools that solve problems I p
 ---
 Want more? Check out my personal portfolio at [asrithcheepurupalli.codes](https://asrithcheepurupalli.codes)
 
-If I want something built, I’ll probably do it myself — not because I have to, but because I enjoy figuring things out.
+> **_If I want something built, I’ll probably do it myself — not because I have to, but because I enjoy figuring things out._**
 
 
 <!---
