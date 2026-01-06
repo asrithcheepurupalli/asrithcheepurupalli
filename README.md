@@ -1,6 +1,6 @@
 # Hi, I'm Asrith Cheepurupalli
 
-I'm a computer science student who enjoys building tools that solve problems I personally care about. I like to finish what I start, and I’m most motivated when I’m building something useful — even if it’s just for myself.
+I'm a computer science student who enjoys building tools that solve problems I personally care about. I like to finish what I start, and I’m most motivated when I’m building something useful, even if it’s just for myself.
 
 ## What I Do
 
