@@ -15,7 +15,7 @@ I'm a computer science student who enjoys building tools that solve problems I p
 - LinkedIn: [linkedin.com/in/asrithcheepurupalli](https://linkedin.com/in/asrithcheepurupalli)
 
 ---
-Want more? Check out my personal portfolio at [asrithcheepurupalli.codes](https://asrithcheepurupalli.codes)
+Want more? Check out my personal portfolio at [asrithcheepurupalli.tech](https://asrithcheepurupalli.tech)
 
 > **_If I want something built, I’ll probably do it myself, not because I have to, but because I enjoy figuring things out._**
 
