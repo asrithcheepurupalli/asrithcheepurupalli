@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="470" viewBox="0 0 900 470" fill="none" font-family="'SF Mono','Cascadia Code','Fira Code',Consolas,Menlo,monospace">
+  <style>
+    .t   { fill:#e9e7e2; }
+    .mut { fill:#8b8a84; }
+    .acc { fill:#f0625f; }
+    .grn { fill:#3fb950; }
+    .cyn { fill:#58a6ff; }
+    .lbl { fill:#f0625f; font-weight:600; }
+    text { font-size:15px; }
+  </style>
+
+  <!-- window -->
+  <rect x="1" y="1" width="898" height="468" rx="14" fill="#0d0d10" stroke="#23242b" stroke-width="1.5"/>
+  <!-- title bar -->
+  <line x1="1" y1="52" x2="899" y2="52" stroke="#1b1c22" stroke-width="1.5"/>
+  <circle cx="28" cy="27" r="6.5" fill="#ff5f56"/>
+  <circle cx="50" cy="27" r="6.5" fill="#ffbd2e"/>
+  <circle cx="72" cy="27" r="6.5" fill="#27c93f"/>
+  <text x="450" y="32" text-anchor="middle" class="mut" font-size="13.5">asrith@github: ~$ neofetch</text>
+
+  <!-- left: made. wordmark + motif -->
+  <text x="70" y="185" font-size="58" font-weight="700" class="t" font-family="Georgia,'Times New Roman',serif">made<tspan class="acc">.</tspan></text>
+  <text x="74" y="215" class="mut" font-size="15" letter-spacing="4">DESIGN ENGINEER</text>
+
+  <!-- contribution motif -->
+  <g transform="translate(74,250)">
+    <g fill="#0e4429"><rect x="0" y="0" width="14" height="14" rx="2"/><rect x="19" y="19" width="14" height="14" rx="2"/></g>
+    <g fill="#006d32"><rect x="19" y="0" width="14" height="14" rx="2"/><rect x="57" y="0" width="14" height="14" rx="2"/><rect x="0" y="19" width="14" height="14" rx="2"/></g>
+    <g fill="#26a641"><rect x="38" y="0" width="14" height="14" rx="2"/><rect x="38" y="19" width="14" height="14" rx="2"/><rect x="76" y="19" width="14" height="14" rx="2"/></g>
+    <g fill="#39d353"><rect x="57" y="19" width="14" height="14" rx="2"/><rect x="76" y="0" width="14" height="14" rx="2"/><rect x="95" y="0" width="14" height="14" rx="2"/></g>
+  </g>
+  <text x="74" y="325" class="mut" font-size="12.5">from a sentence to a live site.</text>
+  <text x="74" y="345" class="mut" font-size="12.5">taste first, a real system beneath it.</text>
+
+  <!-- divider -->
+  <line x1="345" y1="78" x2="345" y2="420" stroke="#1b1c22" stroke-width="1.5"/>
+
+  <!-- right: info -->
+  <g>
+    <text x="380" y="100" class="grn" font-weight="600">asrith@github</text>
+    <text x="380" y="118" class="mut">-------------------------------------------</text>
+
+    <text x="380" y="146" class="lbl">Now</text>   <text x="478" y="146" class="t">Founder and Full-Stack Engineer, made. by ac</text>
+    <text x="380" y="168" class="lbl">Also</text>  <text x="478" y="168" class="t">Design Engineer, AI Product Builder</text>
+    <text x="380" y="190" class="lbl">Edu</text>   <text x="478" y="190" class="t">B.Tech Computer Science, GVPCE, 2027</text>
+    <text x="380" y="212" class="lbl">Loc</text>   <text x="478" y="212" class="t">Visakhapatnam, India</text>
+
+    <text x="380" y="248" class="grn" font-weight="600">Stack</text>
+    <text x="380" y="270" class="lbl">FE</text>    <text x="478" y="270" class="t">React, Next.js, TypeScript, Tailwind</text>
+    <text x="380" y="292" class="lbl">BE</text>    <text x="478" y="292" class="t">Node, FastAPI, Supabase, Postgres</text>
+    <text x="380" y="314" class="lbl">AI</text>    <text x="478" y="314" class="t">Anthropic, OpenAI, structured output</text>
+    <text x="380" y="336" class="lbl">Cloud</text> <text x="478" y="336" class="t">Docker, Vercel, GitHub Actions</text>
+
+    <text x="380" y="372" class="grn" font-weight="600">Highlights</text>
+    <text x="380" y="394" class="cyn">+</text> <text x="400" y="394" class="t">12+ live products shipped, solo, in college</text>
+    <text x="380" y="416" class="cyn">+</text> <text x="400" y="416" class="t">made. table, Somaa, Airlock, Adda, Stash</text>
+  </g>
+
+  <!-- blinking prompt -->
+  <text x="380" y="448" class="grn">$</text>
+  <rect x="398" y="437" width="10" height="15" fill="#e9e7e2">
+    <animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+</svg>

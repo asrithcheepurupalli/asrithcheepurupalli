@@ -1,29 +1,53 @@
-# Hi, I'm Asrith Cheepurupalli
+<div align="center">
 
-I'm a computer science student who enjoys building tools that solve problems I personally care about. I like to finish what I start, and I’m most motivated when I’m building something useful, even if it’s just for myself.
+<img src="https://raw.githubusercontent.com/asrithcheepurupalli/asrithcheepurupalli/main/assets/neofetch.svg" alt="asrith@github neofetch" width="820"/>
 
-## What I Do
+<br/>
 
-- Full-stack development using Python, FastAPI, Flask, JavaScript, and React
-- CLI tools and developer utilities that actually save time
-- OpenAI and LangChain workflows, API integrations, and AI reasoning
-- CI/CD pipelines, automation, and lightweight deployment flows
+<a href="https://asrithcheepurupalli.tech"><img src="https://readme-typing-svg.demolab.com?font=SF+Mono&size=21&duration=3200&pause=800&color=E9E7E2&center=true&vCenter=true&width=760&height=42&lines=Full-Stack+and+AI+Engineer;Founder%2C+made.+by+ac;I+design+the+product+and+I+ship+it.;12%2B+live+products%2C+shipped+solo%2C+in+college" alt="tagline"/></a>
 
-## Contact
+<br/>
 
-- Email: [work.asrithcheepurupalli@gmail.com](mailto:work.asrithcheepurupalli@gmail.com)
-- LinkedIn: [linkedin.com/in/asrithcheepurupalli](https://linkedin.com/in/asrithcheepurupalli)
+<a href="https://asrithcheepurupalli.tech"><img src="https://img.shields.io/badge/Portfolio-asrithcheepurupalli.tech-f0625f?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://made-by-ac.com"><img src="https://img.shields.io/badge/made._by_ac-Studio-0d0d10?style=for-the-badge&logoColor=white"/></a>
+<a href="https://linkedin.com/in/asrithcheepurupalli"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:work.asrithcheepurupalli@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
 
 ---
-Want more? Check out my personal portfolio at [asrithcheepurupalli.tech](https://asrithcheepurupalli.tech)
 
-> **_If I want something built, I’ll probably do it myself, not because I have to, but because I enjoy figuring things out._**
+### `~/ whoami`
 
+I sit where design meets engineering. I take a product from a sentence to a live site: the brand, the interface, the front end, and the AI underneath. I run **made. by ac** and study computer science in Visakhapatnam. Taste first, a real system beneath it, shipped.
 
-![](https://komarev.com/ghpvc/?username=asrithcheepurupalli&color=grey)
+### `~/ currently building`
 
+| Product | What it is |
+|---|---|
+| **[made. table](https://table.made-by-ac.com)** | An owner types a vibe, a model composes a whole restaurant site |
+| **[Somaa](https://github.com/asrithcheepurupalli/somaa)** | AI-assisted dining platform for a real client: ordering PWA, OTP, POS |
+| **[Airlock](https://github.com/asrithcheepurupalli/airlock)** | Privacy firewall for AI: on-device PII redaction before ChatGPT and Claude |
+| **[Adda](https://github.com/asrithcheepurupalli/adda)** | A premium, playful social map of your city |
+| **[Stash](https://github.com/asrithcheepurupalli/stash)** | Local-first AI memory: save your AI chats and the pages behind them |
 
-<!---
-asrithcheepurupalli/asrithcheepurupalli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### `~/ stack`
+
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,fastapi,tailwind,supabase,postgres,docker,vercel,git,figma&theme=dark" alt="stack"/>
+
+---
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=asrithcheepurupalli&show_icons=true&hide_border=false&title_color=f0625f&text_color=e9e7e2&icon_color=3fb950&bg_color=0d0d10&border_color=23242b&include_all_commits=true&count_private=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=asrithcheepurupalli&theme=dark&background=0d0d10&border=23242b&ring=f0625f&fire=f0625f&currStreakLabel=e9e7e2&sideLabels=e9e7e2&dates=8b8a84&stroke=23242b&currStreakNum=e9e7e2&sideNums=e9e7e2"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/asrithcheepurupalli/asrithcheepurupalli/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=asrithcheepurupalli&color=f0625f&style=flat-square&label=profile+views"/>
+
+</div>
