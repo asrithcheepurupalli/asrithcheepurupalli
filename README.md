@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://asrithcheepurupalli.tech"><img src="https://readme-typing-svg.demolab.com?font=SF+Mono&size=21&duration=3200&pause=800&color=E9E7E2&center=true&vCenter=true&width=760&height=42&lines=Full-Stack+and+AI+Engineer;Founder%2C+made.+by+ac;I+design+the+product+and+I+ship+it.;12%2B+live+products%2C+shipped+solo%2C+in+college" alt="tagline"/></a>
+<a href="https://asrithcheepurupalli.tech"><img src="https://readme-typing-svg.demolab.com?font=SF+Mono&size=21&duration=3200&pause=800&color=E9E7E2&center=true&vCenter=true&width=760&height=42&lines=Design+Engineer;Founder%2C+made.+by+ac;I+design+the+product+and+I+ship+it.;12%2B+live+products%2C+shipped+solo%2C+in+college" alt="tagline"/></a>
 
 <br/>
 
@@ -21,15 +21,17 @@
 
 I sit where design meets engineering. I take a product from a sentence to a live site: the brand, the interface, the front end, and the AI underneath. I run **made. by ac** and study computer science in Visakhapatnam. Taste first, a real system beneath it, shipped.
 
-### `~/ currently building`
+### `~/ selected work`
 
 | Product | What it is |
 |---|---|
+| **[Supermind](https://supermind.ink)** | A local-first second brain: notes, links and files that file themselves, encrypted if you want, no server |
+| **[Stash](https://stash.made-by-ac.com)** | Local-first memory for your AI chats and the pages behind them, live on the Chrome Web Store |
+| **[Airlock](https://airlock.made-by-ac.com)** | Privacy firewall for AI: on-device PII redaction before ChatGPT and Claude |
+| **[Ramachandra Ortho Care](https://rcorthocare.made-by-ac.com)** | Client build for a clinic: booking, payments and WhatsApp, with the payment webhook as the single source of truth |
 | **[made. table](https://table.made-by-ac.com)** | An owner types a vibe, a model composes a whole restaurant site |
-| **[Somaa](https://github.com/asrithcheepurupalli/somaa)** | AI-assisted dining platform for a real client: ordering PWA, OTP, POS |
-| **[Airlock](https://github.com/asrithcheepurupalli/airlock)** | Privacy firewall for AI: on-device PII redaction before ChatGPT and Claude |
-| **[Adda](https://github.com/asrithcheepurupalli/adda)** | A premium, playful social map of your city |
-| **[Stash](https://github.com/asrithcheepurupalli/stash)** | Local-first AI memory: save your AI chats and the pages behind them |
+| **[NADIR](https://nadir.made-by-ac.com)** | Aim a phone out of a plane window and it names the ground, offline, with an honest error ellipse |
+| **[Adda](https://github.com/asrithcheepurupalli/adda)** | A premium, playful social map of your city (in progress) |
 
 ### `~/ stack`
 

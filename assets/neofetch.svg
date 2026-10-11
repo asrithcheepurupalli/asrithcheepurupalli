@@ -61,8 +61,8 @@
   <g>
     <text x="410" y="110" class="grn" font-weight="600">asrith@github</text>
     <text x="410" y="128" class="mut">-----------------------------------------</text>
-    <text x="410" y="156" class="lbl">Now</text>   <text x="508" y="156" class="t">Founder and Full-Stack Engineer, made. by ac</text>
-    <text x="410" y="178" class="lbl">Also</text>  <text x="508" y="178" class="t">Design Engineer, AI Product Builder</text>
+    <text x="410" y="156" class="lbl">Now</text>   <text x="508" y="156" class="t">Founder and Design Engineer, made. by ac</text>
+    <text x="410" y="178" class="lbl">Also</text>  <text x="508" y="178" class="t">Full-Stack and AI Product Builder</text>
     <text x="410" y="200" class="lbl">Edu</text>   <text x="508" y="200" class="t">B.Tech Computer Science, GVPCE, 2027</text>
     <text x="410" y="222" class="lbl">Loc</text>   <text x="508" y="222" class="t">Visakhapatnam, India</text>
     <text x="410" y="258" class="grn" font-weight="600">Stack</text>
@@ -72,7 +72,7 @@
     <text x="410" y="346" class="lbl">Cloud</text> <text x="508" y="346" class="t">Docker, Vercel, GitHub Actions</text>
     <text x="410" y="382" class="grn" font-weight="600">Highlights</text>
     <text x="410" y="404" class="cyn">+</text> <text x="430" y="404" class="t">12+ live products shipped, solo, in college</text>
-    <text x="410" y="426" class="cyn">+</text> <text x="430" y="426" class="t">made. table, Somaa, Airlock, Adda, Stash</text>
+    <text x="410" y="426" class="cyn">+</text> <text x="430" y="426" class="t">Supermind, Stash, Airlock, NADIR, made. table</text>
     <text x="410" y="448" class="cyn">+</text> <text x="430" y="448" class="t">one person: design the thing and ship the thing</text>
 </g>
 </svg>
